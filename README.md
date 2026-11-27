@@ -17,7 +17,7 @@ I own engineering for business-critical systems: **commerce, payments, experimen
 
 ## Open source
 
-Earlier in my career I authored widely used PHP libraries, such as [php-sql-query-builder](https://github.com/nilportugues/php-sql-query-builder). Today I build side projects in games, mobile apps and AI.
+Earlier in my career I authored widely used PHP libraries. Today I build side projects in web applications, games, mobile apps and AI.
 
 ## Elsewhere
 
